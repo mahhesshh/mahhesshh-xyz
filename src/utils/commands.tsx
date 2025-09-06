@@ -244,7 +244,7 @@ export const getOutput = (
       setCommand([]);
       return "";
     case "resume":
-      window.open("https://localhost:3000/resume.pdf", "_blank");
+      window.open("https://mahhesshh.xyz/resume.pdf", "_blank");
       return "Opening resume in a new tab...";
     case "experience":
       return (
