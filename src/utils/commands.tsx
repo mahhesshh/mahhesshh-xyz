@@ -349,7 +349,7 @@ export const getOutput = (
       <p>
         I’m open to wherever curiosity and opportunities lead me. That’s the
         beauty of this journey—it’s full of surprises and constant learning!
-        I think You are looking for this Shit IESCTF{I_4M_4N0NYM0US}
+        I think You are looking for this Shit "IESCTF{I_4M_4N0NYM0US}"
       </p>
     </div>
   );
